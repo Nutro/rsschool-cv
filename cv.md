@@ -1,5 +1,5 @@
 1. Leontiy Deryuzhov
-2. +79649714871, nutroutro@gmail.com
+2. +79649714871, nutroutro@gmail.com, [telegram](https://t.me/Leon_utro)
 3. I want to become junior front-end or full-stuck developer in 2020. Improve english and JS
 4. HTML, CSS, basic JS, BEM, API, git, command line, network architecture OSI, troubleshooting
 5. Have not code examples yet
